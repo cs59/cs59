@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cs59
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...{India}
+- 📫 How to reach me @iOS_hAT (Twitter) or @iOShAT (Telegram)
 
 <!---
 cs59/cs59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
